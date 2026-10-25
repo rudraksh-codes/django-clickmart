@@ -175,4 +175,4 @@ cython_debug/
 backend-drf/.env.backend
 backend-drf/.env.postgres
 
-nginx/
+nginx/default.conf
